@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FitnessWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9bc14e1f909cde2914924efd1fe2701bbab706cc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34d7ee227ee3fd7e4a9c99ffd1a45b09bb6f0fe6")]
 [assembly: System.Reflection.AssemblyProductAttribute("FitnessWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FitnessWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
