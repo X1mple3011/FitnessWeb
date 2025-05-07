@@ -7,20 +7,48 @@
       "RelativeMoniker": "D:0:0:{55A46668-A5BF-4DB6-98CB-F22B74C1A52D}|FitnessWeb\\FitnessWeb.csproj|solutionrelative:fitnessweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55A46668-A5BF-4DB6-98CB-F22B74C1A52D}|FitnessWeb\\FitnessWeb.csproj|c:\\subject\\\u0111inhhuongdoanhnghiep\\fitnessweb\\fitnessweb\\fitnessweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55A46668-A5BF-4DB6-98CB-F22B74C1A52D}|FitnessWeb\\FitnessWeb.csproj|solutionrelative:fitnessweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55A46668-A5BF-4DB6-98CB-F22B74C1A52D}|FitnessWeb\\FitnessWeb.csproj|c:\\subject\\\u0111inhhuongdoanhnghiep\\fitnessweb\\fitnessweb\\fitnessweb\\wwwroot\\css\\homepage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{55A46668-A5BF-4DB6-98CB-F22B74C1A52D}|FitnessWeb\\FitnessWeb.csproj|solutionrelative:fitnessweb\\wwwroot\\css\\homepage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55A46668-A5BF-4DB6-98CB-F22B74C1A52D}|FitnessWeb\\FitnessWeb.csproj|c:\\subject\\\u0111inhhuongdoanhnghiep\\fitnessweb\\fitnessweb\\fitnessweb\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{55A46668-A5BF-4DB6-98CB-F22B74C1A52D}|FitnessWeb\\FitnessWeb.csproj|solutionrelative:fitnessweb\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{55A46668-A5BF-4DB6-98CB-F22B74C1A52D}|FitnessWeb\\FitnessWeb.csproj|c:\\subject\\\u0111inhhuongdoanhnghiep\\fitnessweb\\fitnessweb\\fitnessweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55A46668-A5BF-4DB6-98CB-F22B74C1A52D}|FitnessWeb\\FitnessWeb.csproj|solutionrelative:fitnessweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55A46668-A5BF-4DB6-98CB-F22B74C1A52D}|FitnessWeb\\FitnessWeb.csproj|c:\\subject\\\u0111inhhuongdoanhnghiep\\fitnessweb\\fitnessweb\\fitnessweb\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{55A46668-A5BF-4DB6-98CB-F22B74C1A52D}|FitnessWeb\\FitnessWeb.csproj|solutionrelative:fitnessweb\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55A46668-A5BF-4DB6-98CB-F22B74C1A52D}|FitnessWeb\\FitnessWeb.csproj|c:\\subject\\\u0111inhhuongdoanhnghiep\\fitnessweb\\fitnessweb\\fitnessweb\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55A46668-A5BF-4DB6-98CB-F22B74C1A52D}|FitnessWeb\\FitnessWeb.csproj|solutionrelative:fitnessweb\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55A46668-A5BF-4DB6-98CB-F22B74C1A52D}|FitnessWeb\\FitnessWeb.csproj|c:\\subject\\\u0111inhhuongdoanhnghiep\\fitnessweb\\fitnessweb\\fitnessweb\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{55A46668-A5BF-4DB6-98CB-F22B74C1A52D}|FitnessWeb\\FitnessWeb.csproj|solutionrelative:fitnessweb\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55A46668-A5BF-4DB6-98CB-F22B74C1A52D}|FitnessWeb\\FitnessWeb.csproj|c:\\subject\\\u0111inhhuongdoanhnghiep\\fitnessweb\\fitnessweb\\fitnessweb\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55A46668-A5BF-4DB6-98CB-F22B74C1A52D}|FitnessWeb\\FitnessWeb.csproj|solutionrelative:fitnessweb\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{55A46668-A5BF-4DB6-98CB-F22B74C1A52D}|FitnessWeb\\FitnessWeb.csproj|c:\\subject\\\u0111inhhuongdoanhnghiep\\fitnessweb\\fitnessweb\\fitnessweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55A46668-A5BF-4DB6-98CB-F22B74C1A52D}|FitnessWeb\\FitnessWeb.csproj|solutionrelative:fitnessweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55A46668-A5BF-4DB6-98CB-F22B74C1A52D}|FitnessWeb\\FitnessWeb.csproj|c:\\subject\\\u0111inhhuongdoanhnghiep\\fitnessweb\\fitnessweb\\fitnessweb\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55A46668-A5BF-4DB6-98CB-F22B74C1A52D}|FitnessWeb\\FitnessWeb.csproj|solutionrelative:fitnessweb\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55A46668-A5BF-4DB6-98CB-F22B74C1A52D}|FitnessWeb\\FitnessWeb.csproj|c:\\subject\\\u0111inhhuongdoanhnghiep\\fitnessweb\\fitnessweb\\fitnessweb\\models\\workoutplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55A46668-A5BF-4DB6-98CB-F22B74C1A52D}|FitnessWeb\\FitnessWeb.csproj|solutionrelative:fitnessweb\\models\\workoutplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55A46668-A5BF-4DB6-98CB-F22B74C1A52D}|FitnessWeb\\FitnessWeb.csproj|c:\\subject\\\u0111inhhuongdoanhnghiep\\fitnessweb\\fitnessweb\\fitnessweb\\models\\coach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55A46668-A5BF-4DB6-98CB-F22B74C1A52D}|FitnessWeb\\FitnessWeb.csproj|solutionrelative:fitnessweb\\models\\coach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55A46668-A5BF-4DB6-98CB-F22B74C1A52D}|FitnessWeb\\FitnessWeb.csproj|c:\\subject\\\u0111inhhuongdoanhnghiep\\fitnessweb\\fitnessweb\\fitnessweb\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55A46668-A5BF-4DB6-98CB-F22B74C1A52D}|FitnessWeb\\FitnessWeb.csproj|solutionrelative:fitnessweb\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55A46668-A5BF-4DB6-98CB-F22B74C1A52D}|FitnessWeb\\FitnessWeb.csproj|c:\\subject\\\u0111inhhuongdoanhnghiep\\fitnessweb\\fitnessweb\\fitnessweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55A46668-A5BF-4DB6-98CB-F22B74C1A52D}|FitnessWeb\\FitnessWeb.csproj|solutionrelative:fitnessweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +58,98 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "HomePage.css",
+              "DocumentMoniker": "C:\\Subject\\\u0110inhHuongDoanhNghiep\\FitnessWeb\\FitnessWeb\\FitnessWeb\\wwwroot\\css\\HomePage.css",
+              "RelativeDocumentMoniker": "FitnessWeb\\wwwroot\\css\\HomePage.css",
+              "ToolTip": "C:\\Subject\\\u0110inhHuongDoanhNghiep\\FitnessWeb\\FitnessWeb\\FitnessWeb\\wwwroot\\css\\HomePage.css",
+              "RelativeToolTip": "FitnessWeb\\wwwroot\\css\\HomePage.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-07T13:03:22.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Subject\\\u0110inhHuongDoanhNghiep\\FitnessWeb\\FitnessWeb\\FitnessWeb\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "FitnessWeb\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Subject\\\u0110inhHuongDoanhNghiep\\FitnessWeb\\FitnessWeb\\FitnessWeb\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "FitnessWeb\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-07T12:55:27.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Subject\\\u0110inhHuongDoanhNghiep\\FitnessWeb\\FitnessWeb\\FitnessWeb\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "FitnessWeb\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Subject\\\u0110inhHuongDoanhNghiep\\FitnessWeb\\FitnessWeb\\FitnessWeb\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "FitnessWeb\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-07T12:42:36.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WorkoutPlan.cs",
+              "DocumentMoniker": "C:\\Subject\\\u0110inhHuongDoanhNghiep\\FitnessWeb\\FitnessWeb\\FitnessWeb\\Models\\WorkoutPlan.cs",
+              "RelativeDocumentMoniker": "FitnessWeb\\Models\\WorkoutPlan.cs",
+              "ToolTip": "C:\\Subject\\\u0110inhHuongDoanhNghiep\\FitnessWeb\\FitnessWeb\\FitnessWeb\\Models\\WorkoutPlan.cs",
+              "RelativeToolTip": "FitnessWeb\\Models\\WorkoutPlan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T13:33:14.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Coach.cs",
+              "DocumentMoniker": "C:\\Subject\\\u0110inhHuongDoanhNghiep\\FitnessWeb\\FitnessWeb\\FitnessWeb\\Models\\Coach.cs",
+              "RelativeDocumentMoniker": "FitnessWeb\\Models\\Coach.cs",
+              "ToolTip": "C:\\Subject\\\u0110inhHuongDoanhNghiep\\FitnessWeb\\FitnessWeb\\FitnessWeb\\Models\\Coach.cs",
+              "RelativeToolTip": "FitnessWeb\\Models\\Coach.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T13:32:58.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Subject\\\u0110inhHuongDoanhNghiep\\FitnessWeb\\FitnessWeb\\FitnessWeb\\Models\\User.cs",
+              "RelativeDocumentMoniker": "FitnessWeb\\Models\\User.cs",
+              "ToolTip": "C:\\Subject\\\u0110inhHuongDoanhNghiep\\FitnessWeb\\FitnessWeb\\FitnessWeb\\Models\\User.cs",
+              "RelativeToolTip": "FitnessWeb\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T13:32:44.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Subject\\\u0110inhHuongDoanhNghiep\\FitnessWeb\\FitnessWeb\\FitnessWeb\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "FitnessWeb\\Models\\Account.cs",
+              "ToolTip": "C:\\Subject\\\u0110inhHuongDoanhNghiep\\FitnessWeb\\FitnessWeb\\FitnessWeb\\Models\\Account.cs",
+              "RelativeToolTip": "FitnessWeb\\Models\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T13:32:33.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Subject\\\u0110inhHuongDoanhNghiep\\FitnessWeb\\FitnessWeb\\FitnessWeb\\Program.cs",
               "RelativeDocumentMoniker": "FitnessWeb\\Program.cs",
@@ -42,21 +157,7 @@
               "RelativeToolTip": "FitnessWeb\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T09:46:37.021Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Subject\\\u0110inhHuongDoanhNghiep\\FitnessWeb\\FitnessWeb\\FitnessWeb\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "FitnessWeb\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Subject\\\u0110inhHuongDoanhNghiep\\FitnessWeb\\FitnessWeb\\FitnessWeb\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "FitnessWeb\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-25T09:39:19.552Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-25T09:46:37.021Z"
             },
             {
               "$type": "Document",
@@ -66,9 +167,22 @@
               "RelativeDocumentMoniker": "FitnessWeb\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Subject\\\u0110inhHuongDoanhNghiep\\FitnessWeb\\FitnessWeb\\FitnessWeb\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "FitnessWeb\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAB0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-25T09:23:05.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Subject\\\u0110inhHuongDoanhNghiep\\FitnessWeb\\FitnessWeb\\FitnessWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FitnessWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Subject\\\u0110inhHuongDoanhNghiep\\FitnessWeb\\FitnessWeb\\FitnessWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FitnessWeb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T12:36:10.793Z",
               "EditorCaption": ""
             },
             {
@@ -79,23 +193,22 @@
               "RelativeDocumentMoniker": "FitnessWeb\\Models\\ErrorViewModel.cs",
               "ToolTip": "C:\\Subject\\\u0110inhHuongDoanhNghiep\\FitnessWeb\\FitnessWeb\\FitnessWeb\\Models\\ErrorViewModel.cs",
               "RelativeToolTip": "FitnessWeb\\Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-25T09:22:53.182Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Subject\\\u0110inhHuongDoanhNghiep\\FitnessWeb\\FitnessWeb\\FitnessWeb\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "FitnessWeb\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Subject\\\u0110inhHuongDoanhNghiep\\FitnessWeb\\FitnessWeb\\FitnessWeb\\Controllers\\HomeController.cs",
               "RelativeToolTip": "FitnessWeb\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAYAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T09:22:40.261Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-25T09:22:40.261Z"
             }
           ]
         }
