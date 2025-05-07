@@ -84,7 +84,7 @@
               "RelativeDocumentMoniker": "FitnessWeb\\Views\\Blogs\\index.cshtml",
               "ToolTip": "E:\\FitnessWeb\\FitnessWeb\\FitnessWeb\\Views\\Blogs\\index.cshtml",
               "RelativeToolTip": "FitnessWeb\\Views\\Blogs\\index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-07T13:58:01.405Z",
               "EditorCaption": ""
@@ -177,7 +177,8 @@
               "RelativeToolTip": "FitnessWeb\\Models\\WorkoutPlanDetail.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T13:33:55.263Z"
+              "WhenOpened": "2025-05-06T13:33:55.263Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -189,7 +190,8 @@
               "RelativeToolTip": "FitnessWeb\\Models\\Exercise.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T13:33:33.543Z"
+              "WhenOpened": "2025-05-06T13:33:33.543Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -201,7 +203,8 @@
               "RelativeToolTip": "FitnessWeb\\Models\\WorkoutPlan.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T13:33:14.114Z"
+              "WhenOpened": "2025-05-06T13:33:14.114Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -213,7 +216,8 @@
               "RelativeToolTip": "FitnessWeb\\Models\\Coach.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T13:32:58.772Z"
+              "WhenOpened": "2025-05-06T13:32:58.772Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -225,7 +229,8 @@
               "RelativeToolTip": "FitnessWeb\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T13:32:44.816Z"
+              "WhenOpened": "2025-05-06T13:32:44.816Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -237,7 +242,8 @@
               "RelativeToolTip": "FitnessWeb\\Models\\Account.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T13:32:33.094Z"
+              "WhenOpened": "2025-05-06T13:32:33.094Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -249,7 +255,8 @@
               "RelativeToolTip": "FitnessWeb\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T09:46:37.021Z"
+              "WhenOpened": "2025-04-25T09:46:37.021Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -261,7 +268,8 @@
               "RelativeToolTip": "FitnessWeb\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T09:22:53.182Z"
+              "WhenOpened": "2025-04-25T09:22:53.182Z",
+              "EditorCaption": ""
             }
           ]
         }
