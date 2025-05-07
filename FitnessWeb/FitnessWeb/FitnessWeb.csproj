@@ -13,7 +13,6 @@
 
   <ItemGroup>
     <Folder Include="Views\WorkountPlans\" />
-    <Folder Include="Views\Blogs\" />
     <Folder Include="Views\Accounts\" />
   </ItemGroup>
 
